@@ -2,7 +2,7 @@
 
 1. Download the ToDoApp.zip file
 2. Unzip and place it in C:\dev
-3. Open cmd/terminal
+3. Open command prompt
 4. Enter cd C:\dev\ToDoApp
 5. Run the below command to run the code
 robot -d Results tests/Todo.robot
